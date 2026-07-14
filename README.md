@@ -81,8 +81,6 @@ Preparing for product-based software engineering roles
 - Experienced with manufacturing, inventory, HRMS, attendance, FinTech, and workflow-automation products.
 - Actively improving DSA, System Design, cloud deployment, CI/CD, and AI-integrated development.
 
-> Explore my pinned repositories below to see the projects, architecture, and technologies I work with.
-
 ## Let's Connect
 
 I am open to software engineering opportunities, technical collaborations, and conversations about full-stack and AI-enabled application development.
