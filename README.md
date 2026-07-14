@@ -74,15 +74,14 @@ Exploring AI-integrated workflows, LLMs and RAG
 Preparing for product-based software engineering roles
 ```
 
-## GitHub Activity
+## Development Snapshot
 
-<div align="center">
+- Building production-focused applications with React.js, Node.js, Express.js, MongoDB, and MySQL.
+- Working across frontend development, backend APIs, database design, authentication, and role-based access.
+- Experienced with manufacturing, inventory, HRMS, attendance, FinTech, and workflow-automation products.
+- Actively improving DSA, System Design, cloud deployment, CI/CD, and AI-integrated development.
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-vm&show_icons=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-vm&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+> Explore my pinned repositories below to see the projects, architecture, and technologies I work with.
 
 ## Let's Connect
 
